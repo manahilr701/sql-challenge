@@ -50,8 +50,9 @@
 
 **Summary of Composite Keys:**
 
-**Titles Table:** Composite key (emp_no, from_date)
-**Salaries Table:** Composite key (emp_no, from_date)
-**Dept_Emp Table:** Composite key (emp_no, dept_no)
-**Dept_Manager Table:** Composite key (dept_no, emp_no)
+1. **Titles Table:** Composite key (emp_no, from_date)
+2. **Salaries Table:** Composite key (emp_no, from_date)
+3. **Dept_Emp Table:** Composite key (emp_no, dept_no)
+4. **Dept_Manager Table:** Composite key (dept_no, emp_no)
+
 For the tables where a single column can uniquely identify a record, we use a single primary key. For tables where uniqueness requires a combination of two or more columns, composite keys are used.
