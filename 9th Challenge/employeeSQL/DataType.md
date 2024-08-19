@@ -1,4 +1,4 @@
-**Data Type:**
+#**Data Type:**
 
 **1. Titles Table:**
 *emp_no (INT): The emp_no column stores employee numbers, which are integers with no decimals.
